@@ -1,0 +1,3 @@
+{"user": "Alice", "action": "click", "timestamp": "2023-03-08T12:00:00"}
+{"user": "Bob", "action": "purchase", "timestamp": "2025-03-08T12:01:00"}
+{"user": "Gaurav", "action" : "bhagwan", "timestamp": "2025-06"}
